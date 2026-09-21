@@ -30,6 +30,11 @@
 ### Target Task 3: Drafting Technical Readme & Documentation Reports
 * **Classification:** Delegate to AI with review
 * **Definition of "Done Well":** Structured with clear markdown headings, concise explanations, exact links to corresponding notebooks, and error-free execution instructions.
+---
+
+## 3. Evidence of Tool Setup
+* **Claude Project:** Configured with custom instructions covering student background (NUML BS AI), professional tone, and internship goals. [View Screenshot](../outputs/claude_project_screenshot.png) *(or update with your exact filename)*
+* **Anthropic Academy:** Completed the *AI Fluency: Framework & Foundations* course and earned the official certificate. [View Certificate](../outputs/certificate.pdf) *(or update with your exact filename)*
 
 ---
 
