@@ -5,7 +5,8 @@ Hero Texture (AI-Generated): A minimalist, off-white (#F8FAFC) architectural bac
 )
 
 Profile Photo (Real): A clean, authentic headshot of you to anchor the "About" or introduction section.
-![Profile Photo]()
+![Profile Photo](<img width="960" height="1280" alt="IMG-20260321-WA0011" src="https://github.com/user-attachments/assets/0dec6833-9f05-4177-b3c6-6e27ff2f30d5" />
+)
 
 The Leakage Trap (Real Capture): A tightly cropped screenshot from your w03_data_contract.ipynb execution, specifically showing the Random Forest PR-AUC score artificially inflating to 1.0 when the ga4_total_engagement_sec trap feature is added.
 ![Leakage Trap Proof](<img width="1027" height="347" alt="leakage_proof" src="https://github.com/user-attachments/assets/b1a7ff94-2c2b-4e28-ba11-17ed17c3f056" />
